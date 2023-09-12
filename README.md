@@ -1,3 +1,3 @@
 # Java Exception Hierarchy
 
-![hierarchy of exception](src/asserts/hierarchy-of-exception-handling.png)
+![hierarchy of exception](asserts/hierarchy-of-exception-handling.png)
