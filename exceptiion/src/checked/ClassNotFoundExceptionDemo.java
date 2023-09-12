@@ -9,7 +9,7 @@ public class ClassNotFoundExceptionDemo {
     public static void main(String[] args) {
         try {
             Class.forName("Studennt.class"); //Student load
-        } catch (ClassNotFoundException e) {
+        } catch (Exception e) {
             System.out.println("class not found!");
         }
     }
